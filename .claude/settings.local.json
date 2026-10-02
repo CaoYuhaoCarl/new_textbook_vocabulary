@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 clean_vocabulary.py)",
+      "Bash(du -h /Users/mac/Desktop/new_textbook_vocabulary/zk_vocabulary_v2024_*.md)",
+      "Bash(awk -F',' '{print $3}')",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 diff_vocab.py 9B 9B.tsv)"
+    ]
+  }
+}
