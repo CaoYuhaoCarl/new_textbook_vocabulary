@@ -1,0 +1,11 @@
+数据清洗报告
+==================================================
+
+原始文件: /Users/mac/Desktop/new_textbook_vocabulary/zk_vocabulary_v2024_20226.md
+清洗文件: /Users/mac/Desktop/new_textbook_vocabulary/zk_vocabulary_v2024_cleaned.md
+
+总词汇量: 2
+音标格式转换: 0
+删除空派生词: 104
+删除无效搭配: 486
+删除的总行数: 1224

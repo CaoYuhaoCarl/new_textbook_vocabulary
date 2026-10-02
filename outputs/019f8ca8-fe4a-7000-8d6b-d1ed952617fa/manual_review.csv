@@ -1,0 +1,44 @@
+﻿entry_id,source_row,book,unit,word,normalized_word,pronunciation,part_of_speech,chinese_definition,page_number,entry_form,capitalized_candidate,exam_headword_match,exam_frequency_rank,classification,action,entry_type,decision_reason,review_note,source_file
+NV0071,72,7A,Unit 1,UK,uk,/ˌjuː ˈkeɪ/,,英国,p.20,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0072,73,7A,Unit 1,US,us,/ˌjuː ˈes/,,美国,p.20,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0080,81,7A,Unit 1,Australia,australia,/ɒˈstreɪliə/,,澳大利亚,p.23,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0083,84,7A,Unit 1,Singapore,singapore,/ˌsɪŋəˈpɔː(r)/,,新加坡,p.24,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0124,125,7A,Unit 2,Ireland,ireland,/ˈaɪələnd/,,爱尔兰,p.32,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0209,210,7A,Unit 4,Canada,canada,/ˈkænədə/,,加拿大,p.48,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0289,290,7A,Unit 6,Finland,finland,/ˈfɪnlənd/,,芬兰,p.64,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7a-word-list_01-07.png
+NV0329,330,7A,Unit 7,National Day,national day,,,国庆节,p.71,多词表达,是,否,,D复核,等待人工确认,常见节日,属于专名，但可能在中考语境中出现,确认是认读还是剔除,7a-word-list_01-07.png
+NV0404,405,8A,Unit 1,Russia,russia,/'rʌʃə/,,俄罗斯,p.6,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,textbook_v2024_vocabulary_8_1.md
+NV0409,410,8A,Unit 1,Scotland,scotland,/'skɒtlənd/,,苏格兰,p.7,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,textbook_v2024_vocabulary_8_1.md
+NV0814,815,8A,Unit 7,France,france,/frɑ:ns/,,法国,p.69,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,textbook_v2024_vocabulary_8_1.md
+NV0931,932,7B,Unit 1,Antarctica,antarctica,/ænˈtɑːktɪkə/,,南极洲,p.3,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV0932,933,7B,Unit 1,Africa,africa,/ˈæfrɪkə/,,非洲,p.5,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV0934,935,7B,Unit 1,Thailand,thailand,/ˈtaɪlænd/,,泰国,p.6,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV1104,1105,7B,Unit 4,America,america,/əˈmerɪkə/,,美国；美洲,p.27,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV1163,1164,7B,Unit 5,Dragon Boat Festival,dragon boat festival,,,端午节,p.35,多词表达,是,否,,D复核,等待人工确认,常见节日,属于专名，但可能在中考语境中出现,确认是认读还是剔除,7b-vocab_1-8.jpg
+NV1167,1168,7B,Unit 5,Kenya,kenya,/ˈkenjə/,,肯尼亚,p.38,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV1168,1169,7B,Unit 5,USA,usa,/ˌjuːesˈeɪ/,,美国,p.38,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,7b-vocab_1-8.jpg
+NV1403,1404,8B,Unit 1,India,india,/ˈɪndiə/,,印度,p.7,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1649,1650,8B,Unit 4,Egypt,egypt,/ˈiːdʒɪpt/,,埃及,p.34,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1658,1659,8B,Unit 4,Belgium,belgium,/ˈbeldʒəm/,,比利时,p.38,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1734,1735,8B,Unit 5,Indonesia,indonesia,/ˌɪndəˈniːʒə/,,印度尼西亚,p.46,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1735,1736,8B,Unit 5,Japan,japan,/dʒəˈpæn/,,日本,p.48,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1802,1803,8B,Unit 6,Türkiye,türkiye,/tɜːkijə/,,土耳其,p.55,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1803,1804,8B,Unit 6,Mexico,mexico,/ˈmeksɪkəʊ/,,墨西哥,p.55,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1804,1805,8B,Unit 6,Peru,peru,/pəˈruː/,,秘鲁,p.55,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1805,1806,8B,Unit 6,Germany,germany,/ˈdʒɜːməni/,,德国,p.55,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1946,1947,8B,Unit 8,Argentina,argentina,/ˌɑːdʒənˈtiːnə/,,阿根廷,p.75,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1948,1949,8B,Unit 8,Philippines,philippines,/ˈfɪlɪpiːnz/,,菲律宾,p.76,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,8b-word-list_01-13.png
+NV1993,1994,9A,Unit 1,the Olympics,the olympics,/ə'lɪmpɪks/,,(=the Olympic Games) 奥林匹克运动会,p.8,多词表达,是,否,,D复核,等待人工确认,赛事专名,常见赛事名称可能具有认读价值,确认是认读还是剔除,9a-word-list_01-10.png
+NV2263,2264,9A,Unit 5,Europe,europe,/ˈjʊərəp/,,欧洲,p.45,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9a-word-list_01-10.png
+NV2376,2377,9A,Unit 7,Poland,poland,/ˈpəʊlənd/,,波兰,p.66,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9a-word-list_01-10.png
+NV2432,2433,9A,Unit 8,Greece,greece,/griːs/,,希腊,p.78,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9a-word-list_01-10.png
+NV2434,2435,9A,Unit 8,Equatorial Guinea,equatorial guinea,/ˌekwəˈtɔːriəl/ /ˈgɪni/,,赤道几内亚,p.79,多词表达,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9a-word-list_01-10.png
+NV2475,2476,9B,Unit 1,Tomb-sweeping Day,tomb-sweeping day,,,清明节,p.2,多词表达,是,否,,D复核,等待人工确认,常见节日,属于专名，但可能在中考语境中出现,确认是认读还是剔除,9b-word-list_01-06.png
+NV2477,2478,9B,Unit 1,Malaysia,malaysia,/məˈleɪʒə/,,马来西亚,p.3,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png
+NV2478,2479,9B,Unit 1,Italy,italy,/ˈɪtəli/,,意大利,p.5,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png
+NV2479,2480,9B,Unit 1,Mid-Autumn Festival,mid-autumn festival,,,中秋节,p.5,多词表达,是,否,,D复核,等待人工确认,常见节日,属于专名，但可能在中考语境中出现,确认是认读还是剔除,9b-word-list_01-06.png
+NV2484,2485,9B,Unit 1,April Fool's Day,april fool's day,,,愚人节,p.8,多词表达,是,否,,D复核,等待人工确认,常见节日,属于专名，但可能在中考语境中出现,确认是认读还是剔除,9b-word-list_01-06.png
+NV2487,2488,9B,Unit 1,Brazil,brazil,/brəˈzɪl/,,巴西,p.9,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png
+NV2537,2538,9B,Unit 2,Asia,asia,/ˈeɪʒə; ˈeɪʃə/,,亚洲,p.12,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png
+NV2546,2547,9B,Unit 2,Central America,central america,,,中美洲,p.19,多词表达,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png
+NV2602,2603,9B,Unit 3,Netherlands,netherlands,/ˈneðələndz/,,荷兰,p.29,单词,是,否,,D复核,等待人工确认,国家或大洲,属于地名，但常见国家和大洲名称可能具有认读价值,确认是剔除还是放入认读区,9b-word-list_01-06.png

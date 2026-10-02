@@ -1,0 +1,237 @@
+﻿entry_id,source_row,book,unit,word,normalized_word,pronunciation,part_of_speech,chinese_definition,page_number,entry_form,capitalized_candidate,exam_headword_match,exam_frequency_rank,classification,action,entry_type,decision_reason,review_note,source_file
+NV0014,15,7A,Starter Unit 1,Helen,helen,/ˈhelən/,,海伦,p.1,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0015,16,7A,Starter Unit 1,Ella,ella,/ˈelə/,,埃拉,p.1,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0016,17,7A,Starter Unit 1,Emma,emma,/ˈemə/,,埃玛,p.1,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0017,18,7A,Starter Unit 1,Peter,peter,/ˈpiːtə(r)/,,彼得,p.1,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0018,19,7A,Starter Unit 1,Brown,brown,/braʊn/,,布朗,p.2,单词,是,是,10367,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,与考频表普通词同形，按本条中文释义判定为人名,7a-word-list_01-07.png
+NV0024,25,7A,Starter Unit 1,Miller,miller,/ˈmɪlə(r)/,,米勒,p.4,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0070,71,7A,Unit 1,Green,green,/ɡriːn/,,格林,p.20,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0073,74,7A,Unit 1,Smith,smith,/smɪθ/,,史密斯,p.20,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0074,75,7A,Unit 1,Lisa,lisa,/ˈliːsə/,,莉萨,p.23,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0075,76,7A,Unit 1,Tom,tom,/tɒm/,,汤姆,p.23,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0077,78,7A,Unit 1,Sally,sally,/ˈsæli/,,萨莉,p.23,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0078,79,7A,Unit 1,Wood,wood,/wʊd/,,伍德,p.23,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0079,80,7A,Unit 1,Sydney,sydney,/ˈsɪdni/,,悉尼（澳大利亚城市）,p.23,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7a-word-list_01-07.png
+NV0081,82,7A,Unit 1,Mapo tofu,mapo tofu,,,麻婆豆腐,p.23,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7a-word-list_01-07.png
+NV0082,83,7A,Unit 1,Beijing roast duck,beijing roast duck,/rəʊst/,,北京烤鸭,p.24,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7a-word-list_01-07.png
+NV0084,85,7A,Unit 1,the Great Wall,the great wall,,,长城,p.24,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7a-word-list_01-07.png
+NV0085,86,7A,Unit 1,Pauline,pauline,/pɔːˈliːn/,,保利娜,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0086,87,7A,Unit 1,Lee,lee,/liː/,,李,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0087,88,7A,Unit 1,Coco,coco,/ˈkəʊkəʊ/,,科科,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0088,89,7A,Unit 1,London,london,/ˈlʌndən/,,伦敦（英国首都）,p.24,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7a-word-list_01-07.png
+NV0120,121,7A,Unit 2,David,david,/ˈdeɪvɪd/,,戴维,p.28,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0121,122,7A,Unit 2,Jim,jim,/dʒɪm/,,吉姆,p.28,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0122,123,7A,Unit 2,Kate,kate,/keɪt/,,凯特,p.31,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0123,124,7A,Unit 2,Lily,lily,/ˈlɪli/,,莉莉,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0125,126,7A,Unit 2,Fred,fred,/fred/,,弗雷德,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0126,127,7A,Unit 2,Sam,sam,/sæm/,,萨姆,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0127,128,7A,Unit 2,Jane,jane,/dʒeɪn/,,简,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0128,129,7A,Unit 2,Jack,jack,/dʒæk/,,杰克,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0129,130,7A,Unit 2,Sarah,sarah,/ˈseərə/,,萨拉,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0130,131,7A,Unit 2,Oscar,oscar,/ˈɒskə(r)/,,奥斯卡,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0131,132,7A,Unit 2,Lucy,lucy,/ˈluːsi/,,露西,p.32,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0174,175,7A,Unit 3,Flora,flora,/ˈflɔːrə/,,弗洛拉,p.40,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0206,207,7A,Unit 4,Baker,baker,/ˈbeɪkə(r)/,,贝克,p.47,单词,是,是,10366,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,与考频表普通词同形，按本条中文释义判定为人名,7a-word-list_01-07.png
+NV0207,208,7A,Unit 4,Mike,mike,/maɪk/,,迈克,p.48,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0208,209,7A,Unit 4,Davis,davis,/ˈdeɪvɪs/,,戴维斯,p.48,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0243,244,7A,Unit 5,Linda,linda,/ˈlɪndə/,,琳达,p.55,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0244,245,7A,Unit 5,Alice,alice,/ˈælɪs/,,爱丽丝,p.56,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0245,246,7A,Unit 5,Bill,bill,/bɪl/,,比尔,p.56,单词,是,是,809,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,与考频表普通词同形，按本条中文释义判定为人名,7a-word-list_01-07.png
+NV0246,247,7A,Unit 5,Jenny,jenny,/ˈdʒeni/,,珍妮,p.56,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0286,287,7A,Unit 6,Timo,timo,/ˈtiːməʊ/,,蒂莫,p.64,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0287,288,7A,Unit 6,Halla,halla,/ˈhɑlɑ/,,哈拉,p.64,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0288,289,7A,Unit 6,Helsinki,helsinki,/helˈsɪŋki/,,赫尔辛基（芬兰首都）,p.64,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7a-word-list_01-07.png
+NV0327,328,7A,Unit 7,William Shakespeare,william shakespeare,/ˈwɪljəm ˈʃeɪkspɪə(r)/,,威廉·莎士比亚,p.71,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0328,329,7A,Unit 7,Florence Nightingale,florence nightingale,/ˈflɒrəns ˈnaɪtɪŋɡeɪl/,,弗洛伦斯·南丁格尔,p.71,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0330,331,7A,Unit 7,CPC Founding Day,cpc founding day,,,中国共产党建党纪念日,p.71,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7a-word-list_01-07.png
+NV0331,332,7A,Unit 7,PLA Day,pla day,,,中国人民解放军建军节,p.71,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7a-word-list_01-07.png
+NV0332,333,7A,Unit 7,Judy,judy,/ˈdʒuːdi/,,朱迪,p.72,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0333,334,7A,Unit 7,Clark,clark,/klɑːk/,,克拉克,p.72,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7a-word-list_01-07.png
+NV0397,398,8A,Unit 1,Guest-Greeting / Pine,guest-greeting / pine,"/gest, gri:tɪŋ/ /paɪn/",,迎客松,p.2,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,textbook_v2024_vocabulary_8_1.md
+NV0398,399,8A,Unit 1,Sea of Clouds,sea of clouds,,,云海,p.2,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0399,400,8A,Unit 1,Seattle,seattle,/si'ætl/,,西雅图 (美国城市),p.2,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0400,401,8A,Unit 1,Red Square,red square,,,红场,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0401,402,8A,Unit 1,Alexander Garden,alexander garden,/ælɪg'zɑ:ndə(r)/ /ˈgɑ:dən/,,亚历山大花园,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0402,403,8A,Unit 1,Vincent,vincent,/ˈvɪnsənt/,,文森特,p.6,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0403,404,8A,Unit 1,Moscow,moscow,/'mɒskəʊ/,,莫斯科 (俄罗斯首都),p.6,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0405,406,8A,Unit 1,the Victory Museum,the victory museum,,,胜利博物馆,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0408,409,8A,Unit 1,Moscow Metro,moscow metro,,,莫斯科地铁,p.7,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0538,539,8A,Unit 3,Julie,julie,/'dʒu:li/,,朱莉,p.25,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0539,540,8A,Unit 3,Vancouver,vancouver,/væn'ku:və(r)/,,温哥华（加拿大城市）,p.25,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0540,541,8A,Unit 3,Matt,matt,/mæt/,,马特,p.26,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0541,542,8A,Unit 3,Stephen,stephen,/'sti:vn/,,斯蒂芬,p.26,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0542,543,8A,Unit 3,Diana,diana,/daɪ'ænə/,,戴安娜,p.27,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0543,544,8A,Unit 3,Edward,edward,/'edwəd/,,爱德华,p.28,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0544,545,8A,Unit 3,Mark Twain,mark twain,/mɑ:k tweɪn/,,马克·吐温,p.28,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0545,546,8A,Unit 3,Rose,rose,/rəʊz/,,罗丝,p.28,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0614,615,8A,Unit 4,The Arctic Ocean,the arctic ocean,/ði ɑ:ktɪk 'əʊʃn/,,北冰洋,p.39,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",textbook_v2024_vocabulary_8_1.md
+NV0615,616,8A,Unit 4,Billy,billy,/'bɪli/,,比利,p.39,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0684,685,8A,Unit 5,Guoqiao Rice Noodles,guoqiao rice noodles,,,过桥米线,p.49,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,textbook_v2024_vocabulary_8_1.md
+NV0743,744,8A,Unit 6,Jason,jason,/'dʒeɪsən/,,贾森,p.52,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0744,745,8A,Unit 6,Tina,tina,/'ti:nə/,,蒂娜,p.52,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0811,812,8A,Unit 7,Jennifer,jennifer,/'dʒenɪfə/,,珍妮弗,p.63,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0812,813,8A,Unit 7,Harry,harry,/'hæri/,,哈里；哈丽,p.65,单词,是,是,21265,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,与考频表普通词同形，按本条中文释义判定为人名,textbook_v2024_vocabulary_8_1.md
+NV0813,814,8A,Unit 7,Asimov,asimov,/'æzɪmɒf/,,阿西莫夫,p.68,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0815,816,8A,Unit 7,Mandy,mandy,/'mændi/,,曼迪,p.69,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0885,886,8A,Unit 8,Susan,susan,/'su:zən/,,苏珊,p.74,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0886,887,8A,Unit 8,Jones,jones,/dʒəʊnz/,,琼斯,p.79,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",textbook_v2024_vocabulary_8_1.md
+NV0933,934,7B,Unit 1,Malee,malee,/mɑːˈliː/,,马莉,p.6,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV0989,990,7B,Unit 2,Mary,mary,/ˈmeəri/,,玛丽,p.10,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV0990,991,7B,Unit 2,Tony,tony,/ˈtəʊni/,,托尼,p.10,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV0991,992,7B,Unit 2,Anne,anne,/æn/,,安妮,p.11,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV0992,993,7B,Unit 2,Eric,eric,/ˈerɪk/,,埃里克,p.15,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1047,1048,7B,Unit 3,Steve,steve,/stiːv/,,史蒂夫,p.22,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1103,1104,7B,Unit 4,Gongbao chicken,gongbao chicken,,,宫保鸡丁,p.27,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7b-vocab_1-8.jpg
+NV1105,1106,7B,Unit 4,Dongpo pork,dongpo pork,,,东坡肉,p.28,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,7b-vocab_1-8.jpg
+NV1162,1163,7B,Unit 5,Adam,adam,/ˈædəm/,,亚当,p.34,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1164,1165,7B,Unit 5,Beth,beth,/beθ/,,贝丝,p.37,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1165,1166,7B,Unit 5,Nairobi,nairobi,/naɪˈrəʊbi/,,内罗毕（肯尼亚首都）,p.38,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1166,1167,7B,Unit 5,New York,new york,/ˌnjuːˈjɔːk/,,纽约,p.38,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1169,1170,7B,Unit 5,Central Park,central park,,,中央公园,p.38,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1227,1228,7B,Unit 6,Anna,anna,/ˈænə/,,安娜,p.43,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1228,1229,7B,Unit 6,John,john,/dʒɒn/,,约翰,p.43,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1229,1230,7B,Unit 6,Stockholm,stockholm,/ˈstɒkhəʊm/,,斯德哥尔摩（瑞典首都）,p.43,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1230,1231,7B,Unit 6,Mount Huangshan,mount huangshan,,,黄山,p.46,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1231,1232,7B,Unit 6,Bright Peak,bright peak,,,光明顶,p.46,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",7b-vocab_1-8.jpg
+NV1347,1348,7B,Unit 8,Hans Christian Andersen,hans christian andersen,/hænz ˈkrɪstʃən ˈændəsən/,,汉斯·克里斯蒂安·安徒生,p.59,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",7b-vocab_1-8.jpg
+NV1401,1402,8B,Unit 1,Luca,luca,/ˈluːkə/,,卢卡,p.6,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1402,1403,8B,Unit 1,Bruno,bruno,/ˈbruːnəʊ/,,布鲁诺,p.6,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1404,1405,8B,Unit 1,Maya,maya,/ˈmaɪə/,,马娅,p.7,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1405,1406,8B,Unit 1,Badal,badal,/ˈbɑːdl/,,巴达尔,p.7,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1406,1407,8B,Unit 1,Mogao Caves,mogao caves,/keɪvz/,,莫高窟,p.7,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1491,1492,8B,Unit 2,Ben,ben,/ben/,,本,p.12,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1492,1493,8B,Unit 2,Nancy,nancy,/ˈnænsi/,,南希,p.12,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1493,1494,8B,Unit 2,Jeff,jeff,/dʒef/,,杰夫,p.13,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1494,1495,8B,Unit 2,James,james,/dʒeɪmz/,,詹姆斯,p.16,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1495,1496,8B,Unit 2,Allen,allen,/ˈælən/,,艾伦,p.16,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1496,1497,8B,Unit 2,Kelly,kelly,/ˈkeli/,,凯莉,p.18,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1497,1498,8B,Unit 2,Cooper,cooper,/ˈkuːpə(r)/,,库珀,p.19,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1576,1577,8B,Unit 3,Thompson,thompson,/ˈtɒmpsən/,,汤普森,p.29,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1641,1642,8B,Unit 4,Nile River,nile river,/naɪl/,,尼罗河,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1642,1643,8B,Unit 4,Angel Falls,angel falls,/ˈeɪndʒl/,,天使瀑布,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1643,1644,8B,Unit 4,Mount Qomolangma,mount qomolangma,/ˌtʃəʊməʊ ˈlɑːŋmə/,,珠穆朗玛峰,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1644,1645,8B,Unit 4,Dead Sea,dead sea,,,死海,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1645,1646,8B,Unit 4,Sahara Desert,sahara desert,/səˈhɑːrə/,,撒哈拉沙漠,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1646,1647,8B,Unit 4,Mariana Trench,mariana trench,/ˌmæriˈænə/ /trentʃ/,,马里亚纳海沟,p.32,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1647,1648,8B,Unit 4,Titanic,titanic,/taɪˈtænɪk/,,泰坦尼克号,p.33,单词,是,否,,C剔除,从学生主词表剔除,命名实体,具体船名，不作为学生背诵词条,"",8b-word-list_01-13.png
+NV1648,1649,8B,Unit 4,Yangtze River,yangtze river,/ˈjæŋtsi/,,长江,p.34,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1650,1651,8B,Unit 4,Taklimakan Desert,taklimakan desert,/ˌtæklməˈkæn/,,塔克拉玛干沙漠,p.34,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1651,1652,8B,Unit 4,Mount Kilimanjaro,mount kilimanjaro,/ˌkɪlɪmənˈdʒɑːrəʊ/,,乞力马扎罗山,p.35,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1652,1653,8B,Unit 4,Inga Falls,inga falls,/ˈɪŋgə/,,印加瀑布,p.35,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1653,1654,8B,Unit 4,East African Rift Valley,east african rift valley,/rɪft/ /ˈvæli/,,东非大裂谷,p.35,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1654,1655,8B,Unit 4,Victoria Falls,victoria falls,/vɪkˈtɔːriə/,,维多利亚瀑布,p.35,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1655,1656,8B,Unit 4,George Mallory,george mallory,/dʒɔːdʒ/ /ˈmæləri/,,乔治·马洛里,p.37,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1656,1657,8B,Unit 4,Siberia,siberia,/saɪˈbɪəriə/,,西伯利亚,p.38,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1657,1658,8B,Unit 4,Lake Baikal,lake baikal,/ˈbaɪkæl/,,贝加尔湖,p.38,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1659,1660,8B,Unit 4,Great Barrier Reef,great barrier reef,/ˈbæriə(r)/,,大堡礁,p.39,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1732,1733,8B,Unit 5,Tilly,tilly,/ˈtɪli/,,蒂莉,p.46,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1733,1734,8B,Unit 5,Phuket,phuket,/ˌpuːˈket/,,普吉岛,p.46,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1799,1800,8B,Unit 6,Ji-Hoon,ji-hoon,,,智勋（朝鲜或韩国人名）,p.52,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1800,1801,8B,Unit 6,Kaito,kaito,,,海斗（日本人名）,p.52,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1801,1802,8B,Unit 6,Marie,marie,/məˈriː/,,玛丽,p.52,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1806,1807,8B,Unit 6,Paris,paris,/ˈpæris/,,巴黎（法国首都）,p.56,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",8b-word-list_01-13.png
+NV1863,1864,8B,Unit 7,Journey to the West,journey to the west,,,《西游记》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1864,1865,8B,Unit 7,Harry Potter and the Philosopher's Stone,harry potter and the philosopher's stone,,,《哈利·波特与魔法石》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1865,1866,8B,Unit 7,The Time Machine,the time machine,,,《时间机器》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1866,1867,8B,Unit 7,The Final Problem,the final problem,,,《最后一案》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1867,1868,8B,Unit 7,The Three-Body Problem,the three-body problem,,,《三体》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1868,1869,8B,Unit 7,Around the World in Eighty Days,around the world in eighty days,,,《八十天环游世界》,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1869,1870,8B,Unit 7,Sherlock Holmes,sherlock holmes,,,夏洛克·福尔摩斯,p.62,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1870,1871,8B,Unit 7,The Romance of the Three Kingdoms,the romance of the three kingdoms,,,《三国演义》,p.63,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1871,1872,8B,Unit 7,Oliver Twist,oliver twist,,,《雾都孤儿》,p.63,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1872,1873,8B,Unit 7,Charles Dickens,charles dickens,,,查尔斯·狄更斯,p.63,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1873,1874,8B,Unit 7,Alice's Adventures in Wonderland,alice's adventures in wonderland,,,《爱丽丝梦游仙境》,p.64,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1874,1875,8B,Unit 7,Lewis Carroll,lewis carroll,,,刘易斯·卡罗尔,p.64,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1875,1876,8B,Unit 7,The Adventures of Tom Sawyer,the adventures of tom sawyer,,,《汤姆·索亚历险记》,p.64,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1876,1877,8B,Unit 7,The Little Prince,the little prince,,,《小王子》,p.65,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1877,1878,8B,Unit 7,The Little Match Girl,the little match girl,,,《卖火柴的小女孩》,p.65,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1878,1879,8B,Unit 7,Outlaws of the Marsh,outlaws of the marsh,,,《水浒传》,p.65,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1879,1880,8B,Unit 7,My Childhood,my childhood,,,《童年》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1880,1881,8B,Unit 7,The Wonderful Wizard of Oz,the wonderful wizard of oz,,,《绿野仙踪》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1881,1882,8B,Unit 7,A Dream of Red Mansions,a dream of red mansions,,,《红楼梦》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1882,1883,8B,Unit 7,Treasure Island,treasure island,,,《金银岛》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1883,1884,8B,Unit 7,Red Star over China,red star over china,,,《红星照耀中国》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1884,1885,8B,Unit 7,The Secret Garden,the secret garden,,,《秘密花园》,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1885,1886,8B,Unit 7,Frances Hodgson Burnett,frances hodgson burnett,,,弗朗西斯·霍奇森·伯内特,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1886,1887,8B,Unit 7,Lennox,lennox,,,伦诺克斯,p.66,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1887,1888,8B,Unit 7,Craven,craven,,,克雷文,p.66,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1888,1889,8B,Unit 7,Dickon,dickon,,,迪康,p.66,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1889,1890,8B,Unit 7,Colin,colin,,,科林,p.66,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1890,1891,8B,Unit 7,The Old Man and the Sea,the old man and the sea,,,《老人与海》,p.69,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1891,1892,8B,Unit 7,Ernest Hemingway,ernest hemingway,,,欧内斯特·海明威,p.69,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1943,1944,8B,Unit 8,Robert,robert,/ˈrɒbət/,,罗伯特,p.73,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1944,1945,8B,Unit 8,Rose,rose,/rəʊz/,,罗斯；罗丝,p.73,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",8b-word-list_01-13.png
+NV1945,1946,8B,Unit 8,United Nations Peacekeeping,united nations peacekeeping,/ˈpiːskiːpɪŋ/,,联合国维和部队,p.75,多词表达,是,否,,C剔除,从学生主词表剔除,组织名称,具体组织或机构名称，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV1947,1948,8B,Unit 8,Blue Sky Rescue,blue sky rescue,,,蓝天救援队,p.76,多词表达,是,否,,C剔除,从学生主词表剔除,组织名称,具体组织或机构名称，不作为学生背诵词条,可保留在文化附录,8b-word-list_01-13.png
+NV2001,2002,9A,Unit 1,Mombasa,mombasa,/mɔːm'bæsə/,,蒙巴萨（肯尼亚城市）,p.6,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2061,2062,9A,Unit 2,Michael Faraday,michael faraday,/'maɪkl/ /'færədeɪ/,,迈克尔·法拉第,p.12,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2062,2063,9A,Unit 2,Marie Curie,marie curie,/'kjʊəri/,,玛丽·居里,p.12,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2064,2065,9A,Unit 2,Isaac Newton,isaac newton,/'aɪzək/ /'njuːtn/,,艾萨克·牛顿,p.13,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2065,2066,9A,Unit 2,Isambard Brunel,isambard brunel,/'ɪzmbɑːd/ /bruː'nel/,,伊桑巴德·布鲁内尔,p.13,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2066,2067,9A,Unit 2,Alan Turing,alan turing,/'ælən/ /'tjʊərɪŋ/,,阿兰·图灵,p.13,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2067,2068,9A,Unit 2,I.M. Pei,i.m. pei,/peɪ/,,贝聿铭,p.14,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2068,2069,9A,Unit 2,Louvre Museum,louvre museum,/'luːvrə/,,卢浮宫博物馆,p.14,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2069,2070,9A,Unit 2,Confucius,confucius,/kən'fjuːʃəs/,,孔子,p.15,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2070,2071,9A,Unit 2,Victor Hugo,victor hugo,/'vɪktə(r)/ /'hjuːgəʊ/,,维克多·雨果,p.15,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2071,2072,9A,Unit 2,Western Regions,western regions,/'riːdʒənz/,,西域,p.15,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2072,2073,9A,Unit 2,the Silk Road,the silk road,,,丝绸之路,p.15,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2073,2074,9A,Unit 2,Irène,irène,/aɪ'riːn/,,艾琳,p.18,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2074,2075,9A,Unit 2,Amelia Earhart,amelia earhart,/ə'miːljə/ /'eəhɑːt/,,阿梅莉亚·埃尔哈特,p.18,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2075,2076,9A,Unit 2,Atlantic Ocean,atlantic ocean,/ət'læntɪk/,,大西洋,p.18,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2077,2078,9A,Unit 2,the Warring States Period,the warring states period,,,战国时期,p.19,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2125,2126,9A,Unit 3,Frank,frank,/fræŋk/,,弗兰克,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2127,2128,9A,Unit 3,Cathy,cathy,/'kæθiː/,,凯茜,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2128,2129,9A,Unit 3,Terry,terry,/'teri/,,特里；特丽,p.25,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2195,2196,9A,Unit 4,Rick,rick,/rɪk/,,里克,p.34,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2196,2197,9A,Unit 4,Johnny,johnny,/'dʒɒni/,,约翰尼,p.34,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2197,2198,9A,Unit 4,Bob,bob,/bɒb/,,鲍勃,p.35,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2261,2262,9A,Unit 5,Guglielmo Marconi,guglielmo marconi,/ˈɡʊjelməʊ/ /mɑːˈkəʊni/,,古列尔莫·马科尼,p.44,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2262,2263,9A,Unit 5,Alexander Bell,alexander bell,/ˌælɪɡˈzɑːndə(r)/,,亚历山大·贝尔,p.45,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2264,2265,9A,Unit 5,Lhasa,lhasa,/ˈlɑːsə/,,拉萨（中国城市）,p.45,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2265,2266,9A,Unit 5,Tanggula Pass,tanggula pass,,,唐古拉山口,p.45,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2267,2268,9A,Unit 5,Oakland,oakland,/ˈəʊklənd/,,奥克兰（美国城市）,p.48,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2268,2269,9A,Unit 5,Spencer Silver,spencer silver,/ˈspensə(r)/ /ˈsɪlvə(r)/,,斯潘塞·西尔弗,p.48,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2269,2270,9A,Unit 5,Arthur Fry,arthur fry,/ˈɑːθə(r)/,,亚瑟·弗赖伊,p.48,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2270,2271,9A,Unit 5,Orville Wright,orville wright,/ˈɔːvɪl/ /raɪt/,,奥维尔·赖特,p.49,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2271,2272,9A,Unit 5,Wilbur Wright,wilbur wright,/ˈwɪlbə(r)/,,威尔伯·赖特,p.49,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2313,2314,9A,Unit 6,Mars,mars,/mɑːz/,,火星,p.52,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2314,2315,9A,Unit 6,Voyager 1,voyager 1,/ˈvɔɪdʒə(r)/,,旅行者1号探测器,p.56,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2315,2316,9A,Unit 6,Proxima Centauri,proxima centauri,/ˈprɒksɪmə/ /senˈtɔːri/,,比邻星,p.56,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2316,2317,9A,Unit 6,Ann,ann,/æn/,,安,p.58,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2372,2373,9A,Unit 7,Clarice,clarice,/ˈklæris/,,克拉丽斯,p.62,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2373,2374,9A,Unit 7,Debbie,debbie,/ˈdebi/,,黛比,p.62,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2374,2375,9A,Unit 7,Robert Schumann,robert schumann,/ˈʃuːmən/,,罗伯特·舒曼,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2375,2376,9A,Unit 7,Frédéric Chopin,frédéric chopin,/ˈfredərɪk/ /ˈʃəʊpæn/,,弗雷德里克·肖邦,p.66,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2377,2378,9A,Unit 7,Vienna,vienna,/viˈenə/,,维也纳（奥地利首都）,p.66,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9a-word-list_01-10.png
+NV2430,2431,9A,Unit 8,Bing Dwen Dwen,bing dwen dwen,,,冰墩墩,p.76,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2431,2432,9A,Unit 8,Usain Bolt,usain bolt,/ˈjuːseɪn/ /bəʊlt/,,尤塞恩·博尔特,p.76,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2433,2434,9A,Unit 8,Eric Moussambani,eric moussambani,/ˌmuːsʌmˈbɑːni/,,埃里克·穆桑巴尼,p.79,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9a-word-list_01-10.png
+NV2476,2477,9B,Unit 1,Victor,victor,/ˈvɪktə(r)/,,维克托,p.2,单词,是,是,13052,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,与考频表普通词同形，按本条中文释义判定为人名,9b-word-list_01-06.png
+NV2480,2481,9B,Unit 1,Big Ben,big ben,,,大本钟,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2481,2482,9B,Unit 1,Auld Lang Syne,auld lang syne,/ˌɔːld læŋ ˈsaɪn/,,《友谊地久天长》,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,9b-word-list_01-06.png
+NV2482,2483,9B,Unit 1,Times Square,times square,,,时代广场,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2483,2484,9B,Unit 1,Sham El-Nessim,sham el-nessim,,,（埃及）嗅风节,p.6,多词表达,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,9b-word-list_01-06.png
+NV2485,2486,9B,Unit 1,Holi,holi,,,（印度）洒红节,p.8,单词,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,9b-word-list_01-06.png
+NV2486,2487,9B,Unit 1,Rio de Janeiro,rio de janeiro,/ˌriːəʊ dɑː dʒəˈnɪərəʊ/,,里约热内卢（巴西城市）,p.9,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2488,2489,9B,Unit 1,Jason,jason,/ˈdʒeɪsn/,,贾森,p.9,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2538,2539,9B,Unit 2,Sphinx,sphinx,/sfɪŋks/,,斯芬克斯,p.13,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2539,2540,9B,Unit 2,King Tut,king tut,/tuːt/,,图坦卡蒙国王,p.13,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2540,2541,9B,Unit 2,Great Pyramid,great pyramid,,,大金字塔,p.13,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2543,2544,9B,Unit 2,Cairo,cairo,/ˈkaɪrəʊ/,,开罗（埃及首都）,p.13,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2544,2545,9B,Unit 2,Terracotta Army,terracotta army,/ˌterəˈkɒtə/,,兵马俑,p.15,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2545,2546,9B,Unit 2,Stonehenge,stonehenge,/ˌstəʊnˈhendʒ/,,巨石阵,p.18,单词,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2547,2548,9B,Unit 2,Kukulkan,kukulkan,/ˌkuːkʊlˈkɒn/,,库库尔坎,p.19,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2591,2592,9B,Unit 3,Joe,joe,/dʒəʊ/,,乔,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2592,2593,9B,Unit 3,Betty,betty,/ˈbeti/,,贝蒂,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2593,2594,9B,Unit 3,Dave,dave,/deɪv/,,戴夫,p.24,单词,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2594,2595,9B,Unit 3,Venus de Milo,venus de milo,/ˌviːnəs de ˈmaɪləʊ/,,《米洛的维纳斯》（雕塑）,p.24,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,9b-word-list_01-06.png
+NV2595,2596,9B,Unit 3,Mona Lisa,mona lisa,/ˌməʊnə ˈliːsə/,,《蒙娜丽莎》（油画）,p.24,多词表达,是,否,,C剔除,从学生主词表剔除,作品名称,作品或艺术品专名，不作为学生背诵词条,可保留在文化附录,9b-word-list_01-06.png
+NV2596,2597,9B,Unit 3,Da Vinci,da vinci,/dɑː ˈvɪntʃi/,,达·芬奇,p.24,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2597,2598,9B,Unit 3,Hong Kong,hong kong,/ˌhɒŋˈkɒŋ/,,"(SAR, China) 中华人民共和国香港特别行政区",p.25,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2598,2599,9B,Unit 3,Orchid Pavilion,orchid pavilion,/pəˈvɪliən/,,兰亭,p.26,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2599,2600,9B,Unit 3,Astor Garden Court,astor garden court,/ˈæstə(r)/ /kɔːt/,,明轩,p.28,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2600,2601,9B,Unit 3,Metropolitan Museum of Art,metropolitan museum of art,/ˌmetrəˈpɒlɪtən/,,大都会艺术博物馆,p.28,多词表达,是,否,,C剔除,从学生主词表剔除,具体地名,城市、景点、地理实体或历史地点专名,"",9b-word-list_01-06.png
+NV2601,2602,9B,Unit 3,Vincent van Gogh,vincent van gogh,/ˌvɪnsnt væn ˈɡɒf/,,文森特·梵高,p.29,多词表达,是,否,,C剔除,从学生主词表剔除,人名,人物名、姓氏或虚构人物名,"",9b-word-list_01-06.png
+NV2679,2680,9B,Unit 5,Hauptschule,hauptschule,,,普通中学（德语）,p.45,单词,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,9b-word-list_01-06.png
+NV2680,2681,9B,Unit 5,Gymnasium,gymnasium,,,文理中学（德语）,p.45,单词,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,本条为德国学校类型，不是体育馆这一普通词义,避免与普通词义混淆,9b-word-list_01-06.png
+NV2681,2682,9B,Unit 5,Realschule,realschule,,,实科中学（德语）,p.45,单词,是,否,,C剔除,从学生主词表剔除,低考试价值文化词,文化背景专名或外语教育制度名称，预计不要求拼写,可保留在文化附录,9b-word-list_01-06.png
